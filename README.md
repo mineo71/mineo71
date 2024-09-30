@@ -8,7 +8,6 @@ PM and Web-developer
 * 🖥️  See my portfolio at [Click me <3](http://olehrylsky.netlify.app/)
 * ✉️  You can contact me at [olehrylskyj@gmail.com](mailto:olehrylskyj@gmail.com)
 * 🤝  I'm open to collaborating on everything
-* ⚡  Love parties
 
 ### Skills
 
