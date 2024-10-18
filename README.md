@@ -5,7 +5,6 @@ PM and Web-developer
 --------------------
 
 * 🌍  I'm based in Lviv, Ukraine
-* 🖥️  See my portfolio at [Click me <3](http://olehrylsky.netlify.app/)
 * ✉️  You can contact me at [olehrylskyj@gmail.com](mailto:olehrylskyj@gmail.com)
 * 🤝  I'm open to collaborating on everything
 
